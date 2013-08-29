@@ -1,0 +1,19 @@
+.cookie {
+  border: 1px solid #555;
+  padding: 0.5em;
+  background-color: #999;
+	opacity: 1;
+	transition: opacity .5s ease-in-out;
+		-moz-transition: opacity .5s ease-in-out;
+		-webkit-transition: opacity .5s ease-in-out;
+		-o-transition: opacity .5s ease-in-out;
+}
+	.cerrar_cookie {
+		border: 1px solid #333;
+		padding: 0.2em 0.6em;
+		margin: 0.3em;
+	}
+.polcookie_s .cookie {
+  /* display: none; */
+  opacity: 0;
+}
